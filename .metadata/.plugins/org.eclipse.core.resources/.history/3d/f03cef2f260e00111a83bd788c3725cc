@@ -1,0 +1,8 @@
+package inheritance;
+class AA{
+	System.out.println("Non Static Block-1-A");
+}
+
+public class Demo2 {
+
+}

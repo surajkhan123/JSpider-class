@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\suraj\Downloads\JSpider class\.metadata\.plugins\org.eclipse.jdt.core
+2435760712.index
+524495999.index
+2640232196.index
+1316365844.index
+1865797976.index
+2701284951.index

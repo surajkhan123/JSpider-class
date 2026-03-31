@@ -1,0 +1,24 @@
+package inheritance;
+
+public class Mobile {
+	String name;
+	String color;
+	Double price;
+	
+	Mobile(){
+		
+	}
+	public Mobile(String name,String color,double price) {
+		this.name = name;
+		this.color = color;
+		this.price = price;
+		
+	}
+}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

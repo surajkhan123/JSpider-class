@@ -1,0 +1,224 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PrimePattern2",
+      "request": "launch",
+      "mainClass": "PrimePattern2",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNum1",
+      "request": "launch",
+      "mainClass": "PrimeNum1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrimeNum1",
+      "request": "launch",
+      "mainClass": "PatternPrimeNum1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "MobileDriver",
+      "request": "launch",
+      "mainClass": "Cloning.MobileDriver",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Cloning.Test",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test4",
+      "request": "launch",
+      "mainClass": "WrapperClass.Test4",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test3",
+      "request": "launch",
+      "mainClass": "WrapperClass.Test3",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "WrapperClass.Test2",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "WrapperClass.Test1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "PhoneDriver",
+      "request": "launch",
+      "mainClass": "Polymorphism.PhoneDriver",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "Association.B",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "ah",
+      "request": "launch",
+      "mainClass": "Association.ah",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "Association.A",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test4",
+      "request": "launch",
+      "mainClass": "Association.Test4",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test3",
+      "request": "launch",
+      "mainClass": "Association.Test3",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "Association.Test1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "TicketBooking",
+      "request": "launch",
+      "mainClass": "Encapsulation.SingleToneClass.TicketBooking",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "Encapsulation.SingleToneClass.Test2",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "Encapsulation.SingleToneClass.Test1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "StudentTest1",
+      "request": "launch",
+      "mainClass": "Encapsulation.StudentTest1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "E",
+      "request": "launch",
+      "mainClass": "E",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test5",
+      "request": "launch",
+      "mainClass": "Test5",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test3",
+      "request": "launch",
+      "mainClass": "Test3",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "Test1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "Abstraction.Test2",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "Abstraction.Test1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "AutoMorphic1",
+      "request": "launch",
+      "mainClass": "AutoMorphic1",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "AnimalDriver",
+      "request": "launch",
+      "mainClass": "AnimalDriver",
+      "projectName": "JSpider class_ed122a6e"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "MyProject/cb.Main",
+      "projectName": "MyProject"
+    },
+    {
+      "type": "java",
+      "name": "Mobile",
+      "request": "launch",
+      "mainClass": "MyProject/inheritance.Mobile",
+      "projectName": "MyProject"
+    }
+  ]
+}
