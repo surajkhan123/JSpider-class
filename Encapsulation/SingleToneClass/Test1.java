@@ -1,6 +1,7 @@
 package Encapsulation.SingleToneClass;
 
 class A{
+  private static A a;
   int i;
   private A(){
     i =15;
@@ -8,7 +9,8 @@ class A{
 
   }
   public static A getObject(){
-    return new A();
+    if(a==null) a = new A(); // true
+    return a;
   }
 }
 
